@@ -1,0 +1,32 @@
+/* App.css */
+
+/* تنسيق عام لتطبيق صفقة */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.App h1 {
+  color: #4CAF50; /* اللون الأخضر للعنوان */
+  font-size: 2.5rem;
+}
+
+.App p {
+  color: #555;
+  font-size: 1.1rem;
+}
+
+button {
+  background-color: #4CAF50; /* أخضر */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #45a049; /* تغيير اللون عند التمرير */
+}
